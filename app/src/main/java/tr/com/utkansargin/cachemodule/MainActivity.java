@@ -61,6 +61,8 @@ public class MainActivity extends ActionBarActivity {
 
         //bull shit
 
+
+        // aha dev den geliyor
     }
 
 
