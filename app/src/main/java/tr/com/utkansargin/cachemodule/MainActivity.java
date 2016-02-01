@@ -58,8 +58,13 @@ public class MainActivity extends ActionBarActivity {
         Log.i("CACHE", "person: " + pc.getName() + " " + pc.getSurname());
 
         //develer kovalasin
-
         //bull shit
+
+        //1
+        //2
+        //hebele
+
+        //x
 
     }
 
