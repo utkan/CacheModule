@@ -57,6 +57,7 @@ public class MainActivity extends ActionBarActivity {
 
         Log.i("CACHE", "person: " + pc.getName() + " " + pc.getSurname());
 
+        //develer kovalasin
 
 
     }
