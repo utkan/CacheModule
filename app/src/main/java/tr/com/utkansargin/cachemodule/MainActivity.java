@@ -59,6 +59,7 @@ public class MainActivity extends ActionBarActivity {
 
         //develer kovalasin
 
+        //bull shit
 
     }
 
