@@ -63,9 +63,7 @@ public class MainActivity extends ActionBarActivity {
         //1
         //2
         //hebele
-
         //x
-
     }
 
 
